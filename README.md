@@ -21,4 +21,4 @@ An interactive 3D solar system simulation built using **Three.js**. This project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahesh-metre/solarsystem
+   git clone [https://github.com/mahesh-metre/solarsystem](https://github.com/mahesh-metre/solarsystem)
